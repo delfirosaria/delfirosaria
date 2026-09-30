@@ -29,6 +29,8 @@ Analysis of Generative AI usage and its relationship with academic performance, 
 
 📊 [View Full Analysis on RPubs](https://rpubs.com/delfiirrs_/ai-student-impact-analysis)
 
+## Experience
+
 ## Contact
 
 📧 delfisimanjuntak03@gmail.com
