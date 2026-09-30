@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Delfi 👋
 
-<!--
-**delfirosaria/delfirosaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+[About Me](#about-me) · [Skills](#skills) · [Projects](#projects) · [Contact](#contact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am building my skills in data analysis through hands-on projects using R, Python, and Excel. I enjoy exploring data, identifying patterns, and turning data into meaningful insights.
+
+## Skills
+
+- R & R Markdown
+- Python
+- Excel
+- Data Analysis
+- Data Visualization
+- Statistical Analysis
+
+## Projects
+
+### 📊 AI Student Impact Analysis
+
+Analysis of Generative AI usage and its relationship with academic performance, knowledge retention, and burnout risk.
+
+🔗 [View Project](https://github.com/delfirosaria/AI-Student-Impact-Analysis)
+
+📊 [View Full Analysis on RPubs](https://rpubs.com/delfiirrs_/ai-student-impact-analysis)
+
+## Contact
+
+📧 delfisimanjuntak03@gmail.com
