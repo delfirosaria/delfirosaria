@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst
 
-[About Me](#about-me) · [Skills](#skills) · [Projects](#projects) · [Contact](#contact)
+[About Me](#about-me) · [Skills](#skills) · [Projects](#projects) · [Experience](#experience) · [Contact](#contact)
 
 ---
 
@@ -30,6 +30,31 @@ Analysis of Generative AI usage and its relationship with academic performance, 
 📊 [View Full Analysis on RPubs](https://rpubs.com/delfiirrs_/ai-student-impact-analysis)
 
 ## Experience
+
+### Badan Pusat Statistik (BPS) Kota Bengkulu
+**Magang Berdampak – Tim SDI & Statistik Sektoral** | Aug 2025 – Oct 2025
+
+Supported data collection, processing, validation, and dissemination through the Kelurahan Cinta Statistik (Cantik) program.
+
+### Universitas Bengkulu
+**Computer Practicum Assistant – Regression Analysis** | Oct 2024 – Dec 2024
+
+Assisted students with regression analysis using R, including data processing, assumption testing, and result interpretation.
+
+**Computer Practicum Assistant – Multivariate Statistics** | Oct 2025 – Dec 2025
+
+Guided students in multivariate analysis using R, including correlation analysis, clustering, and PCA.
+
+## Organizational Experience
+
+### Himpunan Mahasiswa Statistika (HIMASTA)
+**Research & Development Staff** | Jan 2024 – Dec 2024
+
+Created interactive statistics learning materials and quizzes for social media to encourage student engagement.
+
+**Public Relations Staff** | Jan 2025 – Dec 2025
+
+Coordinated academic networking and collaborative activities with statistics student organizations across Indonesian universities.
 
 ## Contact
 
