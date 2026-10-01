@@ -2,6 +2,8 @@
 
 ### Aspiring Data Analyst
 
+Statistics graduate passionate about data analysis, visualization, and statistical modeling.
+
 [About Me](#about-me) · [Skills](#skills) · [Projects](#projects) · [Experience](#experience) · [Contact](#contact)
 
 ---
