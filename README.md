@@ -29,6 +29,18 @@ Analysis of Generative AI usage and its relationship with academic performance, 
 
 📊 [View Full Analysis on RPubs](https://rpubs.com/delfiirrs_/ai-student-impact-analysis)
 
+### 🧠 Breast Cancer Classification
+
+Project klasifikasi kanker payudara menggunakan Decision Tree dan K-Nearest Neighbors (KNN), dengan evaluasi performa model menggunakan accuracy dan confusion matrix.
+
+🔗 [GitHub Repository](https://github.com/delfirosaria/Breast-Cancer-Classification)
+
+### ⚙️ Feature Engineering for Machine Learning
+
+Project pengolahan dan persiapan data menggunakan teknik feature engineering dengan Python untuk mendukung proses machine learning.
+
+🔗 [GitHub Repository](https://github.com/delfirosaria/Feature-Engineering-Machine-Learning)
+
 ## Experience
 
 ### Badan Pusat Statistik (BPS) Kota Bengkulu
